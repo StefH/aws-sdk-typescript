@@ -1,5 +1,7 @@
 # aws-sdk-typescript
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/StefH/aws-sdk-typescript.svg)](https://greenkeeper.io/)
+
 ## Intro
 
 Not really. Instead, it generates the typings necessary for the AWS SDK for JavaScript from the JSON (and JS) Files.
